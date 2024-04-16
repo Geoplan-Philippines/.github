@@ -2,4 +2,4 @@
 
 **Welcome to Geoplan's organization on Github**
 
-<img src="../geoplan.jpg" />
+<img src="geoplan.jpg" />
